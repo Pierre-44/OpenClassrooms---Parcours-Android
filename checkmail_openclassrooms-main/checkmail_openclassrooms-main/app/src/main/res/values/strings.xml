@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MailChecker</string>
+    <string name="write_mail">Rentrer un email</string>
+    <string name="button_text">Valider</string>
+    <string name="valid_mail">Email correct</string>
+    <string name="wrong_mail">Email incorrect</string>
+</resources>

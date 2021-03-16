@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83a8c518-0814-41bf-86ba-e29e222ac3d5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/checkmail_openclassrooms-main">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1pZRYSQh6E7ucaGVb0RBLlbKJ0S" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager">
+    <configuration name="gradle-wrapper.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/checkmail_openclassrooms-main/gradle/wrapper/gradle-wrapper.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.gradle-wrapper.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83a8c518-0814-41bf-86ba-e29e222ac3d5" name="Default Changelist" comment="" />
+      <created>1615388675444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615388675444</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2397" y="266" key="#PSD" timestamp="1615391960398">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2397" y="266" key="#PSD/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615391960398" />
+    <state x="2699" y="266" key="AndroidProcessChooserDialog" timestamp="1615389722826">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2699" y="266" key="AndroidProcessChooserDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615389722826" />
+    <state x="3042" y="231" key="FileChooserDialogImpl" timestamp="1615390174908">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3042" y="231" key="FileChooserDialogImpl/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615390174908" />
+    <state x="2500" y="355" key="GradleDaemons" timestamp="1615390631447">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2500" y="355" key="GradleDaemons/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615390631447" />
+    <state width="935" height="280" key="GridCell.Tab.0.bottom" timestamp="1615458754995">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="280" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615458754995" />
+    <state width="935" height="280" key="GridCell.Tab.0.center" timestamp="1615458754995">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="280" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615458754995" />
+    <state width="935" height="280" key="GridCell.Tab.0.left" timestamp="1615458754995">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="280" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615458754995" />
+    <state width="935" height="280" key="GridCell.Tab.0.right" timestamp="1615458754995">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="935" height="280" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615458754995" />
+    <state x="2460" y="263" key="IDE.errors.dialog" timestamp="1615390682583">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2460" y="263" key="IDE.errors.dialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615390682583" />
+    <state x="2381" y="165" key="SettingsEditor" timestamp="1615450377625">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="165" key="SettingsEditor/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615450377625" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1615392282792">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1615392282792" />
+  </component>
+</project>

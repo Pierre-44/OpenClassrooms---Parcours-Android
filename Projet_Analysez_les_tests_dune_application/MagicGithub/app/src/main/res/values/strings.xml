@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MagicGithub</string>
+    <string name="HardcodedText">TextView</string>
+    <string name="ignore_contentdescription">ignore=ContentDescription</string>
 </resources>
